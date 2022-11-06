@@ -14,7 +14,7 @@
   }
 
   .dropdown-btn {
-    @apply flex h-[64px] items-center px-[18px] border rounded-lg;
+    @apply flex h-[57px] items-center px-[18px] border rounded-lg;
   }
 
   .dropdown-icon-primary {

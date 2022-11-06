@@ -16,7 +16,7 @@ const CityDropdown = () => {
                     <div className='text-[15px] font-medium leading-tight'>
                         {city}
                     </div>
-                    <div className='text-[13px]'>Выберите город</div>
+                    <div className='text-[12px]'>Выберите город</div>
                 </div>
                 {isOpen ? (
                     <RiArrowUpSLine className='dropdown-icon-secondary' />) :

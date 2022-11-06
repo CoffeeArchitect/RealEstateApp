@@ -12,7 +12,7 @@ const HouseContextProvider = ({ children }: any) => {
     const [cities, setCities] = useState([]);
     const [property, setProperty] = useState('Тип жилья (любое)');
     const [properties, setProperties] = useState([]);
-    const [price, setPrice] = useState('Price range (any)');
+    const [price, setPrice] = useState('Цена (любая)');
     const [loading, setLoading] = useState(false);
     /// cities
     useEffect(() => {
@@ -29,7 +29,11 @@ const HouseContextProvider = ({ children }: any) => {
             }).filter((value, index, self) => self.indexOf(value) === index);
             const uniqueProperties : any = ['Любой тип', ...allProperties];
             setProperties(uniqueProperties);
-        }, []);
+    }, []);
+    
+    const handleClick = () => {
+        console.log('clicked');
+    }
 
     return <HouseContext.Provider value={{
         city,
@@ -41,7 +45,8 @@ const HouseContextProvider = ({ children }: any) => {
         price,
         setPrice,
         houses,
-        loading
+        loading,
+        handleClick
     }}>
       {children}
   </HouseContext.Provider>
