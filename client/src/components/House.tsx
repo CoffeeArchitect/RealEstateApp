@@ -33,7 +33,7 @@ const House = ({ house } : any ) => {
         </div>
       </div>
       <div className='text-lg font-semibold text-violet-600 mb-4'>
-        {price}
+        {price} <span>SUM</span>
       </div>
     </div>
   )

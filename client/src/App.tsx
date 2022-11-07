@@ -6,11 +6,11 @@ import Details from './pages/Details';
 
 function App() {
   return (
-    <div className='max-w-screen-xl mx-auto bg-purple-50 font-primary'>
+    <div className='max-w-[1440px] mx-auto bg-purple-50 font-primary'>
       <Header />
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='details/:id' element={<Details />} />
+        <Route path='/property/:id' element={<Details />} />
       </Routes>
       <Footer />
     </div>
