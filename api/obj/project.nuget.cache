@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DV99/zT6Ry8j63pnk/6hgy5YvKE+WZhJ7mjE22Zv9vpWCMWMU/uso9pQDtEFKg3EWmHBP0yvkBGYBIf8tCd8mA==",
+  "dgSpecHash": "ra+5Zy0gARNy8qsqUCiwOxLldiv6Yz/CrVRIMN4uyehGtmEf4c+e64EWA2yCZjv+5QjYfi6yzz809oe9dgCXuQ==",
   "success": true,
-  "projectFilePath": "/Users/sergejkorolev/Documents/RealEstateApp/api/api.csproj",
+  "projectFilePath": "/Users/sergejkorolev/Documents/RealEstateApp/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/sergejkorolev/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0-rc.2.22476.2/microsoft.aspnetcore.openapi.7.0.0-rc.2.22476.2.nupkg.sha512",
     "/Users/sergejkorolev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

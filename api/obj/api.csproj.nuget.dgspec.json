@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sergejkorolev/Documents/RealEstateApp/api/api.csproj": {}
+    "/Users/sergejkorolev/Documents/RealEstateApp/API/API.csproj": {}
   },
   "projects": {
-    "/Users/sergejkorolev/Documents/RealEstateApp/api/api.csproj": {
+    "/Users/sergejkorolev/Documents/RealEstateApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sergejkorolev/Documents/RealEstateApp/api/api.csproj",
-        "projectName": "api",
-        "projectPath": "/Users/sergejkorolev/Documents/RealEstateApp/api/api.csproj",
+        "projectUniqueName": "/Users/sergejkorolev/Documents/RealEstateApp/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/sergejkorolev/Documents/RealEstateApp/API/API.csproj",
         "packagesPath": "/Users/sergejkorolev/.nuget/packages/",
-        "outputPath": "/Users/sergejkorolev/Documents/RealEstateApp/api/obj/",
+        "outputPath": "/Users/sergejkorolev/Documents/RealEstateApp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sergejkorolev/.nuget/NuGet/NuGet.Config"

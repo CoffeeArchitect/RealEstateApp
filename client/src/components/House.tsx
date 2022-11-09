@@ -38,5 +38,4 @@ const House = ({ house } : any ) => {
     </div>
   )
 }
-
 export default House
