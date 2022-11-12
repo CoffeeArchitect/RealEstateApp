@@ -38,3 +38,11 @@
 /Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Humanizer.dll
 /Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sergejkorolev/Documents/RealEstateApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
